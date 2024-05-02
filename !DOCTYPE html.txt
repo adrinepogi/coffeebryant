@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.div1 {
+  background: red;
+  float:left;
+  width:210px;
+  height:450px;
+}
+
+.div2 {
+  background: yellow;
+  float:center;
+  height:150px;
+
+}
+
+.div3 {
+  background: green;
+  float:center;
+  height:150px;
+}
+.div4 {
+  background: pink;
+  float:center;
+  height:150px;
+}
+p.div1 {
+  font-style: bold;
+}
+</style>
+</head>
+<body>
+
+<div class="div1">Meal Plan</div>
+<div class="div2"><img src=</div>
+<div class="div3"><img src="	https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQyzbdiH7cnCVsK7IGl94uaYhsuqm_Etyvuhhug8VVXA&s"></div>
+<div class="div4">Dinner</div>
+
+</body>
+</html>
+
+
